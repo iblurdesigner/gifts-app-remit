@@ -66,6 +66,10 @@
               "browserTarget": "gif-app:build:development"
             }
           },
+          "options": {
+            "browserTarget": "test1:build",
+            "port": 4300
+          },
           "defaultConfiguration": "development"
         },
         "extract-i18n": {
